@@ -8,26 +8,26 @@ Live Demo:
 https://budget-planner-k40o3ta6a-rucha-tekades-projects.vercel.app/
 
 🚀Features
-Income Tracking 💵
+1. Income Tracking 💵
 
-Expense Management 🛒
+2. Expense Management 🛒
 
-Visual Analytics 📊
+3. Visual Analytics 📊
 
-Dark/Light Mode 🌓
+4. Dark/Light Mode 🌓
 
-Transaction History 📝
+5. Transaction History 📝
 
-Responsive Design 📱
+6. Responsive Design 📱
 
 🛠️ Technologies Used
-HTML5: Structure of the web application
+1. HTML5: Structure of the web application
 
-CSS3: Styling and animations
+2. CSS3: Styling and animations
 
-JavaScript: Core functionality and logic
+3. JavaScript: Core functionality and logic
 
-Chart.js: Interactive expense visualization
+4. Chart.js: Interactive expense visualization
 
 Git: Version control
 
