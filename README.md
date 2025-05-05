@@ -1,5 +1,7 @@
 💰 BudgetBuddy - Personal Finance Manager
 
+Project Name : Budget Planner 
+
 Hi, I'm Rucha! 👋
 
 Welcome to my interactive budget tracking application built with pure HTML, CSS, and JavaScript!
