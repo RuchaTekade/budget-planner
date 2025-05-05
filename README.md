@@ -29,9 +29,10 @@ https://budget-planner-k40o3ta6a-rucha-tekades-projects.vercel.app/
 
 4. Chart.js: Interactive expense visualization
 
-Git: Version control
+5. Git: Version control
 
-Vercel: Deployment platform
+6. Vercel: Deployment platform
 
-Thank you for checking out!!.
+Thank you for checking out!!
+
 Happy coding!!🌟🙆‍♀️
